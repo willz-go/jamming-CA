@@ -1,7 +1,13 @@
 # jamming-CA
 
 ## This project is a portfolio project from Codecademy FullStack Program
+### Fundamental goal
 -Its goal is to practise a bit off HTML, CSS, JScript and React concepts learned throught out the course
+
+### App existing purpose
+
+ -Build a website that allows users to search the Spotify library, create a custom playlist, then save it to their Spotify account.
+
 
 ---
 ## Technology
