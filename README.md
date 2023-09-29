@@ -13,7 +13,13 @@
 
   
 ---
-## Features section is to be defined
+## Features section (as required)
+
+- Users can search for songs by song title.
+- Functionality to search by other attributes like artist’s name, genre, etc. (optional)
+- Users can see information about each song like title, artist, and album for songs they queried
+- Include other information – this part can be defined while coding
+- Users can export their custom playlist to their personal Spotify account
 
 
 ---
